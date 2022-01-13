@@ -1,6 +1,6 @@
 # Line-Editor
 Line Editor an application on Keyboard Buffer using C++
-
+using also for and do while looping techniques.
 keyboard buffer is a small area in the computer's memory (RAM) that is used to temporarily store the keystrokes from the keyboard before they are processed by the CPU.So in summary, the seed phrase is the "seed" that creates everything else (and is easy to store/remember), the extended key is your "master key", and the normal key (now called a spending key) derives from the extended key and lets you spend your funds. Also note that the terminology differs a bit between eras.
 
 So an application to use it we select a simple chosen key some extended 2 Bytes First is NULL and second is a value in this code  (-> right arrow, <- left arrow , Home, End ) other are Normal Keys(Esc, Enter).
